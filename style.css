@@ -1,9 +1,12 @@
 body{
     font-family: 'Patua One', cursive;
 }
+p{
+    font-family: 'Poppins', sans-serif;
+}
 
 .header-title{
-    font-size: 40px;
+    font-size: 45px;
     border-left: 2px solid red;
     padding-left: 8px;
 }
@@ -161,6 +164,16 @@ body{
 .bhaiadr-text p{
     padding-bottom: 10px;
 }
+
+.red-color{
+    color: red;
+}
+
+.vaccine-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 footer h3{
     font-family: 'Rampart One', cursive;
 }
@@ -169,4 +182,8 @@ footer{
     padding-bottom: 4%;
      color: whitesmoke;
     text-align: center;
+}
+
+.orange-color{
+    color: orange;
 }
