@@ -32,6 +32,7 @@ p{
     border: 1px solid red;
     width: 30px;
     padding: 10px 19px;
+    padding-bottom: 4px;
     background-color: rgb(224, 64, 99);
     color: white;
     border-radius: 10px;
