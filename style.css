@@ -1,0 +1,172 @@
+body{
+    font-family: 'Patua One', cursive;
+}
+
+.header-title{
+    font-size: 40px;
+    border-left: 2px solid red;
+    padding-left: 8px;
+}
+
+.blueviolet-color{
+    color: blueviolet;
+}
+
+.container{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-text-area{
+    width: 50%;
+    margin-left: 4%;
+}
+
+.button{
+    text-decoration: none;
+    border: 1px solid red;
+    width: 30px;
+    padding: 10px 19px;
+    background-color: rgb(224, 64, 99);
+    color: white;
+    border-radius: 10px;
+}
+
+.text{
+    font-weight: bold;
+}
+
+.first-pic{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-pic img{
+    width: 60%;
+    padding: 15px;
+
+}
+
+.mission-section{
+    padding: 4%;
+}
+
+.flex{ 
+    display: flex;
+    justify-content: center;
+    margin: 0px 3%;
+}
+
+.mission-item{
+    width: 33%;
+    margin-right: 3%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.mission-item img{
+    width: 50%;
+}
+
+#illustrator-1{
+    background-color: rgb(190, 226, 255);
+}
+#illustrator-2{
+    background-color: rgb(255, 208, 216);
+}
+#illustrator-3{
+    background-color: rgb(252, 216, 170);
+}
+
+.section-title{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 8%;
+}
+
+
+.apudr-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.girls{
+    width: 50%;
+    padding: 3% 0% 3% 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 200px;
+}
+
+.girls img{
+    width: 50%;
+    padding: 8% 8% 8% 0%;
+}
+
+.apudr-text{
+    width: 50%;
+    padding: 3%;
+}
+
+.apudr-text h1{
+    font-size: 40px;
+}
+
+.apudr-text p{
+    padding-bottom: 10px;
+}
+
+
+.bhaiadr-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bhaias{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 200px;
+}
+
+.bhaias img{
+    width: 50%;
+    padding: 8%;
+}
+
+.bhaiadr-text{
+    width: 60%;
+    padding: 3% 0% 3% 8%;
+}
+
+.bhaiadr-text h1{
+    font-size: 40px;
+}
+
+.bhaiadr-text p{
+    padding-bottom: 10px;
+}
+footer h3{
+    font-family: 'Rampart One', cursive;
+}
+footer{
+    background-color: black;
+    padding-bottom: 4%;
+     color: whitesmoke;
+    text-align: center;
+}
